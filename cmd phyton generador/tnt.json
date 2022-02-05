@@ -1,0 +1,14 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/tnt"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": "2"
+            },
+            "model": "item/tnt_super"
+        }
+    ]
+}
